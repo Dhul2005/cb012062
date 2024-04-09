@@ -201,8 +201,8 @@ table {
 
 footer {
     text-align: center;
-    background-color: grey;
-    color: white;
+    background-color: white;
+    color: grey;
 }
 
 @media screen and (max-width:1100px) {
@@ -279,6 +279,9 @@ footer {
     margin-bottom: 20px;
    }
 }
+
+
+
 
 
 

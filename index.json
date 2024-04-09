@@ -1,0 +1,42 @@
+{
+    "title"    : "Sri Lanka's Breathtaking Beauty",
+    "image"    : "images/images1/1.jpeg", 
+    "para1"    :"The thrilling island nation of Sri Lanka boasts eight UNESCO World Heritage Sites, thriving national parks with fascinating biodiversity, luscious tea plantations, and white sandy beaches. Evidence of its rich history is noticed through Buddhist temples, Dutch forts, and colonial buildings which aid the wonderful allure of this beautiful destination.",
+    "para2"    :"Divided largely between the ecological 'wet' zones of the south and southwest and 'dry' zones of the north and northeast, Sri Lanka boasts an impressive biodiversity and some of the most beautiful wildlife watching opportunities in the world.  Recent figures suggest that the country hosts up to 4000 species of flowering plants, 107 species of freshwater fish, 59 species of amphibians, 174 species of reptiles, 435 species of birds, 140 species of mammals and several thousand invertebrates.",
+    "para3"    :"Across these groups species include the mugger crocodile and saltwater crocodile, great herds of elephants, blue whales, leopards, schools of dolphins, hundreds of colourful birds and reefs teeming with rainbow-coloured fish.  Did you know, the country is said to be the only one in the world where you can see the world's largest land mammal, the elephant, and the largest marine mammal, the blue whale, in a single day?  It is also recorded as having one of the highest rates of endemism in the world.",
+
+    "imageAlt" : "Breathtaking scenery of Sri Lanka",
+    "heading3" : "Breath taking Beauty",
+    "p1"       : "Ella - Witness The Countryside Charm.",
+    "p2"       : "Nuwara Eliya - Covered With Lush-Greenery.",
+    "p3"       : "Adams Peak - The UNESCO World Heritage Site.",
+    "p4"       : "Mirissa - Go Whale Watching",
+    "p5"       : "Yala National Park - Amidst The Wildlife.",
+    
+    "title2"   : "ENDEMIC BIRDS",
+    "image1"   : "images/images1/2.webp",
+    "para4"    : "Sri Lanka, renowned for its rich biodiversity, hosts a remarkable array of endemic bird species. Approximately 33 bird species are found solely on this island nation, making it a significant global hotspot for avian endemism. Notable examples include the Sri Lanka Junglefowl, the national bird, resplendent in vibrant hues. The Serendib Scops Owl, discovered only in 2001, adds an air of mystery. The striking Sri Lanka Whistling Thrush is a melodic presence near fast-flowing streams. Conservation efforts are crucial, given the challenges these endemic birds face, including habitat loss. Birdwatchers and nature enthusiasts flock to Sri Lanka to witness this avian diversity, contributing to the island's status as a premier birding destination.",
+    "para5"    : "Sri Lanka offers a remarkable array of endemic species found nowhere else on the planet. With its lush forests, diverse landscapes, and unique ecosystems, this lovely island is a haven for avian life. Being home to an impressive number of 34 endemic bird species, Sri Lanka considers a perfect place for bird watching. Certainly, the dedicated bird sanctuaries in the country offer a memorable experience for worldwide nature lovers.",
+    "para6"    : "Endemic birds have evolved distinct adaptations that enable them to thrive in their specific habitats. Some of these unique characteristics include vibrant plumage, specialized beaks, and mixed flock feeding habits. Thus, these remarkable birds have adapted well to the island's varied habitats, from the misty peaks of the central highlands to the coastal wetlands and tropical rainforests",
+    "title3"   : "Types of Birds",
+    "li1"      : "Sri Lankan grey hornbill",
+    "li2"      : "Sri Lankan blue magpie",
+    "li3"      : "Sri Lankan hanging parrot",
+    "li4"      : "Sri Lankan wood pigeon",
+    "li5"      : "Sri Lankan kingfisher",
+
+    "title4"   : "UNIQUE WILDLIFE",
+    "image2"   : "images/images1/3.jpg",
+    "para7"    : "Sri Lanka boasts unique wildlife reserves that showcase the country's rich biodiversity. Yala National Park, renowned for its diverse ecosystems, is home to the elusive Sri Lankan leopard. Wilpattu National Park, with its tranquil lakes and ancient ruins, provides a habitat for a variety of wildlife, including sloth bears and water buffalo. Sinharaja Forest Reserve, a UNESCO World Heritage Site, stands as a biodiversity hotspot, sheltering numerous endemic species like the purple-faced langur.",
+    "para8"    : "Bundala National Park, a haven for bird enthusiasts, hosts migratory flocks and endemic species, creating a vibrant avian spectacle. These reserves collectively contribute to Sri Lanka's conservation efforts and offer visitors an immersive experience in the island's unparalleled natural beauty.",
+    "para9"    : "The Uda Walawe National Park has the reputation of being one of the best places in the country to spot elephants. With nearly 600 elephants in the park as well as crocodiles, buffaloes, deer and snakes it is certainly worth the journey. Kumana in the south-east is the leading bird sanctuary in the country with a total of 255 species of birds from the Black Necked storks to Eurasian spoonbills.",
+    "title5"   : "Wildlife Reserves",
+    "li"       : "Sinharaja Forest Reserve",
+    "li6"      : "Wasgamuwa National Park",
+    "li7"      : "Minneriya National Park",
+    "li8"      : "Yala National Park",
+    "li9"      : "Wilpattu National Park"
+        
+}
+
+

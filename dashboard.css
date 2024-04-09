@@ -1,0 +1,33 @@
+body {
+    background-color: black;
+    margin-top: 20px;
+}
+img{
+     width: 550px;
+     height: 400px;
+     margin-top: 200px;
+     margin-left: 475px;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+}
+
+li a {
+    font-family: inherit, Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: white;
+    text-decoration: none;
+}
+
+.navbar {
+    list-style: none;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.navbar li {
+    display: inline-block;
+    padding: 0 45px;
+}
